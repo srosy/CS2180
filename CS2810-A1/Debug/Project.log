@@ -1,0 +1,3 @@
+﻿D:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling CS2810-A1.asm...
+  Project.vcxproj -> E:\School\Fall 2020\CS2180\CS2810-A1\Debug\CS2810-A1.exe

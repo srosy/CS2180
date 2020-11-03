@@ -1,0 +1,6 @@
+E:\School\Fall 2020\CS2180\CS2810-Assembler-Template\Debug\Project.exe
+E:\School\Fall 2020\CS2180\CS2810-Assembler-Template\Debug\Project.pdb
+E:\School\Fall 2020\CS2180\CS2810-A1\Debug\CS2810-A1.exe
+E:\School\Fall 2020\CS2180\CS2810-A1\Debug\CS2810-A1.pdb
+E:\School\Fall 2020\CS2180\CS2810-A2\Debug\CS2810-A2.exe
+E:\School\Fall 2020\CS2180\CS2810-A2\Debug\CS2810-A2.pdb
