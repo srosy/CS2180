@@ -1,0 +1,14 @@
+E:\School\Fall 2020\CS2180\CS2810-Assembler-Template\Debug\Project.exe
+E:\School\Fall 2020\CS2180\CS2810-Assembler-Template\Debug\Project.pdb
+E:\School\Fall 2020\CS2180\CS2810-A1\Debug\CS2810-A1.exe
+E:\School\Fall 2020\CS2180\CS2810-A1\Debug\CS2810-A1.pdb
+E:\School\Fall 2020\CS2180\CS2810-A2\Debug\CS2810-A2.exe
+E:\School\Fall 2020\CS2180\CS2810-A2\Debug\CS2810-A2.pdb
+E:\School\Fall 2020\CS2180\CS2810-A3\Debug\CS2810-A3.exe
+E:\School\Fall 2020\CS2180\CS2810-A3\Debug\CS2810-A3.pdb
+E:\School\Fall 2020\CS2180\CS2810-A3 - Copy\Debug\CS2810-A3.exe
+E:\School\Fall 2020\CS2180\CS2810-A3 - Copy\Debug\CS2810-A3.pdb
+E:\School\Fall 2020\CS2180\CS2810-A4\Debug\CS2810-A4.exe
+E:\School\Fall 2020\CS2180\CS2810-A4\Debug\CS2810-A4.pdb
+E:\School\Fall 2020\CS2180\CS2810-A5\Debug\CS2810-A5.exe
+E:\School\Fall 2020\CS2180\CS2810-A5\Debug\CS2810-A5.pdb
